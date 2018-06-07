@@ -18,7 +18,7 @@ mxUtils.extend(OneDriveClient, DrawioClient);
  * existing thumbnail with the placeholder only once.
  */
 OneDriveClient.prototype.clientId = (window.location.hostname == 'test.draw.io') ?
-	'2e598409-107f-4b59-89ca-d7723c8e00a4' : '45c10911-200f-4e27-a666-9e9fca147395';
+	'2e598409-107f-4b59-89ca-d7723c8e00a4' : '6ffae902-73b7-49d9-9a17-b736feeab9a0';
 
 /**
  * OAuth 2.0 scopes for installing Drive Apps.
